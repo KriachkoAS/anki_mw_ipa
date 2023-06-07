@@ -1,0 +1,13 @@
+{
+    "key": "mw-learners-dictionary-api-key",
+    "notes_info": {
+        "note_type_example_name": {
+            "word_field": "name_of_field_representing_word",
+            "ipa_field": "name_of_field_representing_mw_ipa"
+        },
+        "note_type2_example_name": {
+            "word_field": "name_of_field_representing_word",
+            "ipa_field": "name_of_field_representing_mw_ipa"
+        }
+    }
+}
